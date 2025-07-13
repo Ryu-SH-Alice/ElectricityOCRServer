@@ -1,6 +1,8 @@
 # ⚡ 전력량계량기 OCR프로젝트
 ## [✏프로젝트 과정기록](https://2sehi.github.io/tags/#%EC%A0%84%EB%A0%A5%EA%B3%84%EB%9F%89%EA%B8%B0-ocr%EC%9D%B8%EC%8B%9D)
 
+빅데이터 기반 AI 응용 솔루션 개발자 전문과정에서 진행한 프로젝트
+
 - **⚡ 전력량계량기 OCR프로젝트**
   - 📁Repository 구조
   - 📌프로젝트 개요
